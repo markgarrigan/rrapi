@@ -10,13 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
-    "esm": "^3.2.21",
+    "axios": "^0.18.1",
+    "cheerio": "^1.0.0-rc.3",
+    "esm": "^3.2.25",
     "fuzzyset.js": "0.0.8",
-    "inquirer": "^6.2.2",
+    "inquirer": "^6.5.2",
     "lowdb": "^1.0.0",
-    "node-cache": "^4.2.0"
+    "node-cache": "^4.2.1"
   },
   "bin": {
     "rrfind": "./index.js"
